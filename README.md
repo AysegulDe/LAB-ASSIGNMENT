@@ -1,11 +1,11 @@
 ## Online Boutique Deployment, Performance Monitoring and Canary Release ###
 
 **This Project includes** : 
-    - Deploying a microservices applications on GKE
-    - Setting up and running a Load Generator both locally and automatically in Google Cloud
-    - Monitoring the application and infrastructure using Grafana and Prometheus
-    - Performing performance evaluation using metrics from Grafana and Locust
-    - Creating a new canary release
+    - Deploying a microservices applications on GKE.
+    - Setting up and running a Load Generator both locally and automatically in Google Cloud.
+    - Monitoring the application and infrastructure using Grafana and Prometheus.
+    - Performing performance evaluation using metrics from Grafana and Locust.
+    - Creating a new canary release.
 
 ____________________________________________________________________________
 
