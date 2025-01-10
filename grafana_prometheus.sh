@@ -10,7 +10,7 @@ kubectl create namespace monitoring
 
 helm install prometheus prometheus-community/prometheus -n monitoring
 
-# Look if all pods is running
+# Look if all pods are running
 kubectl get pods -n monitoring
 
 # Port-forward the Prometheus server to use it locally
