@@ -1,6 +1,7 @@
 ## Online Boutique Deployment, Performance Monitoring and Canary Release ###
 
 **This Project includes** : 
+
     - Deploying a microservices applications on GKE.
     
     - Setting up and running a Load Generator both locally and automatically in Google Cloud.
